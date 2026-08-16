@@ -11,3 +11,6 @@ In this model, as an initial force is applied the sway angle increases to 0.05 b
 
 I derived transfer function from the mathematical model considering ratio of sway angle to cart velocity and I have 
 typed it in the mat file.
+
+
+
